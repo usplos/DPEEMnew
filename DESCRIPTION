@@ -1,0 +1,21 @@
+Package: DPEEMnew
+Type: Package
+Title: A advanced version of DPEEM package
+Version: 0.1.0
+Authors@R: c(
+  person("Guangyao", "Zhang", email="zhanggunagyao@psych.ac.cn", role=c("aut", "cre"))
+  )
+Author: Guangyao Zhang
+Maintainer: Guangyao Zhang <zhanggunagyao@psych.ac.cn>
+Description: A advanced version of DPEEM package
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6.1),
+         rio,
+         tidyverse,
+         fgui
+Imports: tidyverse,
+         rio,
+         fgui,
+         tools
