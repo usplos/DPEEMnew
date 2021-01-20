@@ -1,5 +1,5 @@
 # DPEEMnew
-An advanced version of DPEEM package
+An advanced version of [**`DPEEM`** package](https://github.com/usplos/DPEEM)
 
 
 ## Citation
